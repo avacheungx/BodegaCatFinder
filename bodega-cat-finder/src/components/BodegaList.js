@@ -18,5 +18,3 @@ function MapPlaceholder() {
 }
 
 export default MapPlaceholder;
-
-//this is a placeholder since we dont have the API key
